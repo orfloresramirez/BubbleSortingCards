@@ -1,0 +1,16 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: seagreen;
+}
+
+#input-cantidad {
+  height: 24px;
+  width: 40px;
+  font-size: small;
+}
+
+button {
+  height: 24px;
+  cursor: pointer;
+}
